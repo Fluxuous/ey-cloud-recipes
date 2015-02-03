@@ -34,7 +34,7 @@ A large portion of the defaults of this recipe have been moved to a attribute fi
 Installation
 --------
 
-Ensure you have the Dependencies installed in your local cookbooks repository ...
+Ensure you have the Dependencies installed in your local cookbooks repository...
 Add the following to your main/recipes/default.rb
 
 ``include_recipe "redis"``
